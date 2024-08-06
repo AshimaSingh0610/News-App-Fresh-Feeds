@@ -116,4 +116,8 @@ Your input is highly valued. 🤗
 (git push origin feature/AmazingFeature)
 ```
 - Open a Pull Request
-
+1. Navigate to the "Pull Requests" tab in the repository.
+2. Click "New Pull Request".
+3. Select your feature branch and compare it with the main branch.
+4. Add a descriptive title and comments about your changes.
+5. Click "Create Pull Request".
