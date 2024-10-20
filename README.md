@@ -66,17 +66,6 @@ git clone https://github.com/AshimaSingh0610/News-App-Fresh-Feeds.git
 cd News-App-Fresh-Feeds
 ```
 
-- Install dependencies:
-```
-npm install
-```
-
-- Run the application:
-```
-npm start
-```
-
-
 
 
 ## 🛠️ Usage
@@ -111,16 +100,16 @@ Your input is highly valued. 🤗
 
 - Create your Feature Branch 
 ```
-(git checkout -b feature/AmazingFeature)
+git checkout -b feature/AmazingFeature
 ```
 - Commit your Changes 
 ```
-(git commit -m 'Add some AmazingFeature')
+git commit -m 'Add some AmazingFeature'
 ```
 
 - Push to the Branch 
 ```
-(git push origin feature/AmazingFeature)
+git push origin feature/AmazingFeature
 ```
 - Open a Pull Request
 1. Navigate to the "Pull Requests" tab in the repository.
