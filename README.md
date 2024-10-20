@@ -33,7 +33,13 @@ This dynamic web application delivers the latest news in real-time, ensuring you
 
 - 📰 News APIs: Integrated various news APIs to fetch the latest articles and updates seamlessly.
 
+  
+
 ## 🌟 Video 
+
+https://github.com/user-attachments/assets/96f4828e-d165-4e24-a7d0-6bfc43a272b6
+
+
 
 
 ## 🚀 Getting Started
